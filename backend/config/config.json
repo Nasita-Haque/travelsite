@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "crazykiwi",
+    "password": null,
+    "database": "travel-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "crazykiwi",
+    "password": null,
+    "database": "travel-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "crazykiwi",
+    "password": null,
+    "database": "travel-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
